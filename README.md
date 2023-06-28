@@ -1,8 +1,6 @@
-Certainly! Here's an example of a README file for the provided code:
-
 # Medical Insurance Cost Prediction
 
-This project aims to predict insurance costs based on various features using a linear regression model. The code provided performs the following steps:
+This project aims to predict medical insurance costs based on various features using a linear regression model. The code provided performs the following steps:
 
 1. Data Collection and Analysis:
    - Loads the insurance data from a CSV file into a Pandas DataFrame.
