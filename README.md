@@ -1,6 +1,6 @@
 Certainly! Here's an example of a README file for the provided code:
 
-# Insurance Cost Prediction
+# Medical Insurance Cost Prediction
 
 This project aims to predict insurance costs based on various features using a linear regression model. The code provided performs the following steps:
 
